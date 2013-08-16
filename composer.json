@@ -1,0 +1,11 @@
+{
+    "name": "artack/artack-cron-bundle",
+    "description": "SF2 Bundle to Install/Remove/Update Cronjobs",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Patrick Landolt",
+            "email": "patrick.landolt@artack.ch"
+        }
+    ]
+}
